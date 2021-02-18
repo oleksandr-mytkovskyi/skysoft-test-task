@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  text-align: center;
+  margin: 30px 10px 0 10px;
+}
+
+.block {
+  border: 2px solid #0B61A4;
+  background: honeydew;
+  width: 100px;
+
+}
+.result {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+
+.average {
+  text-align: center;
+  margin: 20px 10px;;
+}
+.wrapper {
+  display: flex;
+}
+.res-block {
+  background: #66A3D2;
+  color: white;
+}

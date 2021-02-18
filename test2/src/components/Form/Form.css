@@ -1,0 +1,11 @@
+.wrapper-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 60vw;
+    margin: 20px;
+}
+.input {
+    width: 200px;
+}
